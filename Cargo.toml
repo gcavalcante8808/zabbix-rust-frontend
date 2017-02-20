@@ -1,0 +1,9 @@
+[package]
+name = "zabbix-rust-frontend"
+version = "0.1.0"
+authors = ["gcavalcante8808 <gabriel.cavalcante88@gmail.com>"]
+
+[dependencies]
+nickel="*"
+rustc-serialize="*"
+hyper="0.10"
